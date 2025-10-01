@@ -5,7 +5,10 @@
   margin-top: 32px;
   border: 1px solid;
   border-radius: 8px;
-}
+  color: currentColor;
+  text-decoration: none;
+  }
+
 .back-link::before {
   content: '';
   position: absolute;
